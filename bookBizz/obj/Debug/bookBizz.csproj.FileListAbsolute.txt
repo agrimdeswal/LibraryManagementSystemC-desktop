@@ -1,0 +1,12 @@
+C:\Users\Agrim Deswal\source\repos\bookBizz\bookBizz\bin\Debug\bookBizz.exe.config
+C:\Users\Agrim Deswal\source\repos\bookBizz\bookBizz\bin\Debug\bookBizz.exe
+C:\Users\Agrim Deswal\source\repos\bookBizz\bookBizz\bin\Debug\bookBizz.pdb
+C:\Users\Agrim Deswal\source\repos\bookBizz\bookBizz\obj\Debug\bookBizz.csproj.AssemblyReference.cache
+C:\Users\Agrim Deswal\source\repos\bookBizz\bookBizz\obj\Debug\bookBizz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Agrim Deswal\source\repos\bookBizz\bookBizz\obj\Debug\bookBizz.Form1.resources
+C:\Users\Agrim Deswal\source\repos\bookBizz\bookBizz\obj\Debug\bookBizz.Properties.Resources.resources
+C:\Users\Agrim Deswal\source\repos\bookBizz\bookBizz\obj\Debug\bookBizz.csproj.GenerateResource.cache
+C:\Users\Agrim Deswal\source\repos\bookBizz\bookBizz\obj\Debug\bookBizz.csproj.CoreCompileInputs.cache
+C:\Users\Agrim Deswal\source\repos\bookBizz\bookBizz\obj\Debug\bookBizz.exe
+C:\Users\Agrim Deswal\source\repos\bookBizz\bookBizz\obj\Debug\bookBizz.pdb
+C:\Users\Agrim Deswal\source\repos\bookBizz\bookBizz\obj\Debug\bookBizz.Form2.resources
